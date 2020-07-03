@@ -4,6 +4,9 @@
 * Doom documentation
 ** https://github.com/hlissner/doom-emacs/blob/develop/docs/faq.org#i-am-a-beginner-can-i-use-doom
 ** python - https://github.com/hlissner/doom-emacs/tree/develop/modules/lang/python
+** youtube playlists
+*** ! - https://www.youtube.com/watch?v=rCMh7srOqvw&list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
+*** https://www.youtube.com/playlist?list=PLyy8KUDC8P7X6YkegqrnEnymzMWCNB4bN
 * Key-bindings
 ** Code editing
 *** Comment for evil mode - ~g c~
