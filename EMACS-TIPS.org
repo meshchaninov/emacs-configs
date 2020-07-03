@@ -1,0 +1,31 @@
+#+TITLE: Emacs tips and tricks
+#+AUTHOR: Nikita Meshchaninov
+
+* Key-bindings
+** Code editing
+*** Comment for evil mode - ~g c~
+*** Avy find char - ~g s SPC <chr>~
+*** Visual block indent evil mode - ~vii~
+*** Snippets ~SPC i s~
+*** Imports
+**** Insert mising imports ~SPC m i i~
+**** Optmize imports ~SPC m i o~
+** Code running
+*** Compile ~SPC p c~
+** Files manipulation
+*** Open file ~SPC .~
+*** Open ricent ~SPC f r~
+*** Open settings ~SPC f p~
+*** Find file in this dir ~SPC SPC~
+*** Dired
+**** Delete file - ~d x~
+**** Up in tree - ~-~
+** Windows
+*** Split window h ~^W s~
+*** Split window v ~^W v~
+*** Next window ~^W w~
+*** Stabile windows ~^W =~
+** Buffers
+*** Chenge buffer ~SPC b b~
+*** Change with all buffers ~SPC b B~
+*** Close buffer ~SPC b d~
