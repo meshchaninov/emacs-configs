@@ -58,3 +58,9 @@
 (set-default 'truncate-lines nil)
 
 (setq projectile-project-search-path '("~/Desktop/Prog", "~/Desktop/Job"))
+
+(after! lsp-python-ms
+  (set-lsp-priority! 'mspyls 1))
+
+(after! python
+  (setq python-shell-interpreter "python3"))
