@@ -1,6 +1,9 @@
 #+TITLE: Emacs tips and tricks
 #+AUTHOR: Nikita Meshchaninov
 
+* Doom documentation
+** https://github.com/hlissner/doom-emacs/blob/develop/docs/faq.org#i-am-a-beginner-can-i-use-doom
+** python - https://github.com/hlissner/doom-emacs/tree/develop/modules/lang/python
 * Key-bindings
 ** Code editing
 *** Comment for evil mode - ~g c~
