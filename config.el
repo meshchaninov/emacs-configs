@@ -54,4 +54,7 @@
 ;; they are implemented.
 
 
+;; truncate-lines false
+(set-default 'truncate-lines nil)
+
 (setq projectile-project-search-path '("~/Desktop/Prog", "~/Desktop/Job"))
