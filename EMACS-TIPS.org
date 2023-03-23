@@ -1,0 +1,52 @@
+#+TITLE: Emacs tips and tricks
+#+AUTHOR: Nikita Meshchaninov
+
+* Doom documentation
+** https://github.com/hlissner/doom-emacs/blob/develop/docs/faq.org#i-am-a-beginner-can-i-use-doom
+** python - https://github.com/hlissner/doom-emacs/tree/develop/modules/lang/python
+** youtube playlists
+*** ! - https://www.youtube.com/watch?v=rCMh7srOqvw&list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
+*** https://www.youtube.com/playlist?list=PLyy8KUDC8P7X6YkegqrnEnymzMWCNB4bN
+* Key-bindings
+** Code editing
+*** Comment for evil mode - ~g c~
+*** Avy find char - ~g s SPC <chr>~
+*** Visual block indent evil mode - ~vii~
+*** Snippets ~SPC i s~
+*** Imports
+**** Insert mising imports ~SPC m i i~
+**** Optmize imports ~SPC m i o~
+** Code navigation
+*** Go to diffenition ~SPC c d~
+*** All references ~SPC c D~
+*** Go to implementation ~SPC c i~
+*** Back ~C-o~
+*** Forward ~C-i~
+** Code running
+*** Compile ~SPC p c~
+** Shell
+*** Toggle eshell ~SPC o e~
+*** Open eshell ~SPC o E~
+** Files manipulation
+*** Open file ~SPC .~
+*** Open ricent ~SPC f r~
+*** Open settings ~SPC f p~
+*** Find file in this dir ~SPC SPC~
+*** Dired
+**** Delete file - ~d x~
+**** Up in tree - ~-~
+** Bookmarks
+*** Set bookmark - ~SPC b m~
+*** List bookmarks - ~SPC ENTER~
+** Windows
+*** Split window h ~^W s~
+*** Split window v ~^W v~
+*** Next window ~^W w~
+*** Stabile windows ~^W =~
+*** Close window ~^W c~
+** Buffers
+*** Chenge buffer ~SPC b b~
+*** Change with all buffers ~SPC b B~
+*** Close buffer ~SPC b d~
+** Treemacs
+*** Toggle ~SPC o p~
