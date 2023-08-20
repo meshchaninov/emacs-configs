@@ -119,4 +119,3 @@
 ;; python-mode
 (after! dap-mode
   (setq dap-python-debugger 'debugpy))
-

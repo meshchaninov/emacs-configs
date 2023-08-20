@@ -51,3 +51,6 @@
 
 (package! copilot
   :recipe (:host github :repo "zerolfx/copilot.el" :files ("*.el" "dist")))
+
+;; simple wrapper for virtualenv https://github.com/porterjamesj/virtualenvwrapper.el
+(package! virtualenvwrapper)
